@@ -1,4 +1,3 @@
-# startCodeForTesting1
-This project contains start code for an exercise given at cphbusiness.dk for the educations:
-* AP degree in Computer Science
-* Top-up Bachelor's degree in Software Developement
+# Mock opgave
+tror måske jeg fik commitet noget fra Lars projekt.
+Det burde ikke være noget problem
